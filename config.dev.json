@@ -17,14 +17,14 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100088212594818", "100094189827824"],
+    "61575137262643", "61575137262643"],
   "whiteListMode": {
     "enable": true,
-    "whiteListIds": ["100088212594818","100094189827824"],
+    "whiteListIds": ["61575137262643","61575137262643"],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝘼𝙉𝘾𝙃𝙀𝙎𝙏𝙊𝙍 𝘼𝙄 ",
-  "prefix": "-",
+  "nickNameBot": " 𝘼𝙄 ",
+  "prefix": "#",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
